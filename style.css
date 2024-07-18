@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+:root{
+    --concert-one: "Concert One", sans-serif;
+    --bungee: "Bungee", sans-serif;
+    --branco: white;
+}
+
+header{
+    background-color: #111022;
+    box-shadow: 0px 3px 10px #0a0a14;
+}
